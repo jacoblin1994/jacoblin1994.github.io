@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>useful-dev-tools on ShuHungLin</title>
+    <link>https://jacoblin1994.github.io/tags/useful-dev-tools/</link>
+    <description>Recent content in useful-dev-tools on ShuHungLin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Sat, 18 Dec 2021 15:09:28 +0800</lastBuildDate><atom:link href="https://jacoblin1994.github.io/tags/useful-dev-tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Useful Development Tools</title>
+      <link>https://jacoblin1994.github.io/blog/useful-dev-tools/</link>
+      <pubDate>Sat, 18 Dec 2021 15:09:28 +0800</pubDate>
+      
+      <guid>https://jacoblin1994.github.io/blog/useful-dev-tools/</guid>
+      <description>What is in scope?   Command-Line Tools  Zsh Oh My Zsh Powerlevel10k tmux vim   IDE Tools  VSC   Configuration Files  Why do I care?  Having a consistent workflow for development reduces friction when switching to a new machine, hence increasing developer velocity.
+How to do it?  Install Zsh Zsh is an extended version of the Bourne Shell (sh) like Bash, but it offers more easily configurable options especially when paired with Oh My Zsh.</description>
+    </item>
+    
+  </channel>
+</rss>
