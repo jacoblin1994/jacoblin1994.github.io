@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ShuHungLin</title>
-    <link>https://jacoblin1994.github.io/</link>
-    <description>Recent content on ShuHungLin</description>
+    <title>golden-circle on ShuHungLin</title>
+    <link>https://jacoblin1994.github.io/tags/golden-circle/</link>
+    <description>Recent content in golden-circle on ShuHungLin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Fri, 17 Dec 2021 17:25:14 +0800</lastBuildDate><atom:link href="https://jacoblin1994.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How to Make This Blog</title>
-      <link>https://jacoblin1994.github.io/blog/how-this-web/</link>
-      <pubDate>Fri, 17 Dec 2021 17:25:14 +0800</pubDate>
-      
-      <guid>https://jacoblin1994.github.io/blog/how-this-web/</guid>
-      <description>What is this blog?  This blog is a static website that returns the same hard-coded content from the server whenever a particular resource is requested. A dynamic website, on the other hand, is one where some of the response content is generated dynamically. Learn more about static vs dynamic sites here.
-Why do I care?  This helps provide a concrete introduction to web development that consists of myriad components, including domain acquisition, web file hosting, web file composition (HTML, CSS, JavaScript), and etc.</description>
-    </item>
-    
+    <lastBuildDate>Thu, 16 Dec 2021 08:38:52 +0800</lastBuildDate><atom:link href="https://jacoblin1994.github.io/tags/golden-circle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why This Blog</title>
       <link>https://jacoblin1994.github.io/blog/why-this-blog/</link>

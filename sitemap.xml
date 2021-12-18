@@ -2,10 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://shuhunglin.com/</loc>
+    <loc>https://jacoblin1994.github.io/</loc>
+    <lastmod>2021-12-17T17:25:14+08:00</lastmod>
   </url><url>
-    <loc>http://shuhunglin.com/categories/</loc>
+    <loc>https://jacoblin1994.github.io/blog/</loc>
+    <lastmod>2021-12-17T17:25:14+08:00</lastmod>
   </url><url>
-    <loc>http://shuhunglin.com/tags/</loc>
+    <loc>https://jacoblin1994.github.io/blog/how-this-web/</loc>
+    <lastmod>2021-12-17T17:25:14+08:00</lastmod>
+  </url><url>
+    <loc>https://jacoblin1994.github.io/tags/static-site/</loc>
+    <lastmod>2021-12-17T17:25:14+08:00</lastmod>
+  </url><url>
+    <loc>https://jacoblin1994.github.io/tags/</loc>
+    <lastmod>2021-12-17T17:25:14+08:00</lastmod>
+  </url><url>
+    <loc>https://jacoblin1994.github.io/tags/golden-circle/</loc>
+    <lastmod>2021-12-16T08:38:52+08:00</lastmod>
+  </url><url>
+    <loc>https://jacoblin1994.github.io/blog/why-this-blog/</loc>
+    <lastmod>2021-12-16T08:38:52+08:00</lastmod>
+  </url><url>
+    <loc>https://jacoblin1994.github.io/blog/the-golden-circle/</loc>
+    <lastmod>2021-12-15T08:43:06+08:00</lastmod>
+  </url><url>
+    <loc>https://jacoblin1994.github.io/categories/</loc>
   </url>
 </urlset>
