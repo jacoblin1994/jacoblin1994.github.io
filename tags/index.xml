@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Fri, 17 Dec 2021 17:25:14 +0800</lastBuildDate><atom:link href="https://jacoblin1994.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Dec 2021 15:09:28 +0800</lastBuildDate><atom:link href="https://jacoblin1994.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>useful-dev-tools</title>
+      <link>https://jacoblin1994.github.io/tags/useful-dev-tools/</link>
+      <pubDate>Sat, 18 Dec 2021 15:09:28 +0800</pubDate>
+      
+      <guid>https://jacoblin1994.github.io/tags/useful-dev-tools/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>static-site</title>
       <link>https://jacoblin1994.github.io/tags/static-site/</link>
