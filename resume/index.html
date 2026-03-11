@@ -23,7 +23,64 @@
     
     <link rel="stylesheet" href="https://jacoblin1994.github.io/resume/assets/css/devresume.min.6832e93fae6ea272b2bb105c6ba708595ab7cdb121f8b9f29960918405de0053.css">
 
+    <style>
+        @media print {
+            /* Removes the white gap around the edges */
+            @page {
+                margin: 0;
+                size: auto;
+            }
+            body {
+                margin: 0;
+                -webkit-print-color-adjust: exact; /* Ensures Apple logo and colors stay vibrant */
+            }
+            .resume-wrapper {
+                margin: 0 !important;
+                padding: 40px !important; /* Adjust this to give your text internal breathing room */
+                box-shadow: none !important;
+                width: 100%;
+            }
+            /* Prevents the browser from adding a "Date/Title" header/footer */
+            header, footer {
+                display: none !important;
+            }
 
+            /* Tighten the Education section */
+            .education-section {
+                padding-top: 5px !important;
+                padding-bottom: 5px !important;
+            }
+
+            .resume-education-list li {
+                margin-bottom: 5px !important;
+            }
+
+            .resume-degree-time {
+                font-size: 0.85rem !important; /* Slightly smaller date text */
+            }
+
+            /* Tighten the Information/Project section */
+            .project-section {
+                padding-top: 5px !important;
+                padding-bottom: 5px !important;
+            }
+
+            .project-section .item {
+                margin-bottom: 2px !important;
+            }
+
+            /* Remove unnecessary header margins in sidebar */
+            .resume-aside .resume-section-heading {
+                margin-bottom: 10px !important;
+                margin-top: 10px !important;
+            }
+
+            /* Force the wrapper to utilize full height efficiently */
+            .resume-wrapper {
+                padding: 35px 40px !important; /* Keep horizontal room, tighten vertical */
+            }
+        }
+    </style>
 </head>
 
 <body>
@@ -41,16 +98,14 @@
 
                         
                         
-                        <div class="resume-title col-12 col-md-6 col-lg-8 col-xl-9">
+                        <div class="resume-title col-12 col-md-7 col-lg-8 col-xl-9">
                             <h2 class="resume-name mb-0 text-uppercase">Shu-Hung Lin</h2>
                             <div class="resume-tagline mb-3 mb-md-0"> Software Engineer | Distributed Systems | Apple</div>
                         </div>
 
-                        
 
-                        
-                        
-                        <div class="resume-contact col-12 col-md-6 col-lg-4 col-xl-3">
+
+                        <div class="resume-contact col-12 col-md-5 col-lg-4 col-xl-3">
                             <ul class="list-unstyled mb-0">
                                 
                                 <li class="mb-2"><i class="fas fa-phone-square fa-fw fa-lg mr-2"></i><a class="resume-link" href="tel:2066963572">(206) 696-3572</a></li>
